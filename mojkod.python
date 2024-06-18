@@ -1,5 +1,5 @@
 print("hello git")
 print("nova izmena")
-
 ovo je novi master
-
+print("nova izmena")
+ovo je nova grana
