@@ -1,5 +1,5 @@
-print("master")
+print("hello git")
+print("nova izmena")
 
+ovo je novi master
 
-print("nova izmen")
-ovo je nova grana
